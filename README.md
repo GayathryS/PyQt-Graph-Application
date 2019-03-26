@@ -1,1 +1,1 @@
-# fsf_2019_screening_task2
+This is a python based GUI developed on PyQt4 as the second screening task of FOSSEE internship challenge. The interface can be used to upload a csv file, edit it's contents and save the changes. It also allows to select a #value from the csv and to plot the entire column that contains the value (as points or lines)
